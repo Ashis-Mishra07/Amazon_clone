@@ -22,7 +22,7 @@ This project is a simplified clone of the Amazon website developed using HTML, C
 Open the index.html file in your preferred web browser to view the Amazon clone website.
 Explore the different features and functionalities implemented.
 
-Contact
-[Ashis Kumar Mishra] - [mishralucky074@gmail.com]
+## Contact
+Ashis Kumar Mishra - mishralucky074@gmail.com
 
 Project Link: https://ashis-mishra07.github.io/Amazon_clone/
